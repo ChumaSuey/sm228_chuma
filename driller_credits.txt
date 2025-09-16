@@ -1,0 +1,6 @@
+## Additional Assets 
+
+Weapon and drill model: Kebby_
+Explosion sprite:       Kebby_
+Sounds:                 Kebby_ & 4LT
+Ammo models:            4LT
