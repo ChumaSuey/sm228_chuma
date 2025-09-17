@@ -30,6 +30,16 @@ The original idea stuck through, just a "tons of enemies" map, not sure if it qu
 
 I converted the OLLLLA textures from Doom to Quake, just did recolor of the green one to make it as a close as possible to Green, since Green is a color difficult to achieve within Quake color palette.
 
+The song used was already finished when the speedmapping activity was announced, in the last day of it i added 2 basses (making a bassline to keep it mysterious but catchy).
+
+I thank all my friends and people around the quake community for playing the map, also Pacifist Paradise community!
+
+I thank Stricker17 for pointing me out some corrections in the song used in the map.
+
+Best vibes and best wishes for everyone!
+
+Excelsior!
+
 
 ### Special thanks
 
