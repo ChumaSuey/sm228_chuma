@@ -1,24 +1,34 @@
-# TITLE (map_title)
-Quake map for MOD (extra details)
+# Rocket Drilling in the Mystery City (sm231_chuma.bsp)
+Quake map for Copper 1.35 (Swab speedmap prog)
 
 
 TO PLAY: Drop the folder in your sourceport of preference... that's it... have fun!
 
 ### Author info / Metadata
 
-Map: 
-Filename : 
+Map name: Rocket Drilling in the Mystery City 
+Filename: sm231_chuma.bsp
 
 
 Song(s) used: 
 
-Track N: 
+Track 27: 
 
-Link or info of the artist
+Mysterious Town - Blood Instinct.
+
+
+https://blood-instinct.bandcamp.com
+
+https://soundcloud.com/blood-instinct-72
+
 
 ### General Information / Behind the scenes.
 
-Explain here the detail of the making of the map
+This map was a fun little adventure to make, i focused primarily on giving the Rocket Launcher and Grenade Launcher to the player, and giving the Thunderbolt either later or through the earlier secret.
+
+The original idea stuck through, just a "tons of enemies" map, not sure if it qualifies as slaughter or horde... but had fun.
+
+I converted the OLLLLA textures from Doom to Quake, just did recolor of the green one to make it as a close as possible to Green, since Green is a color difficult to achieve within Quake color palette.
 
 
 ### Special thanks
@@ -33,6 +43,8 @@ A special tribute mention to my friend Meowgi from the Doom Community for helpin
 - Proxy-MIDI.
 - spootnik
 - bmFbr.
+- 4LT.
+- Kebby.
 - Paril.
 - CommonCold.
 - Em3raldTig3r.
