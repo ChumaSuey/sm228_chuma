@@ -12,10 +12,7 @@ Filename: sm231_chuma.bsp
 
 Song(s) used: 
 
-Track 27: 
-
-Mysterious Town - Blood Instinct.
-
+Track 27: Mysterious Town - Blood Instinct.
 
 https://blood-instinct.bandcamp.com
 
